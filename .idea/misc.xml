@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="EntryPointsManager">
+    <writeAnnotations>
+      <writeAnnotation name="org.apache.dubbo.config.annotation.DubboReference" />
+    </writeAnnotations>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-app-server/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-model/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-db/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-mongo/pom.xml" />
+        <option value="$PROJECT_DIR$/tanhua-admin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

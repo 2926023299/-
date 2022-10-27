@@ -1,0 +1,20 @@
+server:
+  port: 18083
+spring:
+  profiles:
+    active: prod
+  application:
+    name: tanhua-admin
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.136.160:8848
+      config:
+        server-addr: 192.168.136.160:8848
+        file-extension: yml
+tanhua:
+  green:
+    enable: true
+    accessKeyID: LTAI5t7tQr2SYHDcz6mm8pUs
+    accessKeySecret: Ll0oPTBM3udh1LYnQAaYERkYlTKWFD
+    scenes: porn,terrorism #色情，暴力
